@@ -113,7 +113,7 @@ display-name = "SYM";
 // ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
                 &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PRCNT       &kp CARET   &kp AMPS    &kp ASTRK   &kp LPAR    &kp RPAR
-           &md SHFT TILDE   &trans      &trans      &kp HOME    &kp END         &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &trans
+           &mt SHFT TILDE   &trans      &trans      &kp HOME    &kp END         &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &trans
     &trans      &trans      &trans      &trans      &trans      &trans          &trans      &trans      &kp LT      &kp GT      &trans      &trans
                                         &trans      &trans      &trans          &trans      &trans      &trans
             >;
